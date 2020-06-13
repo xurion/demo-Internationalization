@@ -1,2 +1,4 @@
-# demo-Internationalization
-Internationalization API
+# Internationalization demo
+
+Using the Internationalization API in JavaScript.
+
