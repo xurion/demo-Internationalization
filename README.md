@@ -2,7 +2,7 @@
 
 Using the Internationalization API in JavaScript.
 
-## TL;DR Summary
+## Summary
 
 Unless browser support is not a concern, it is difficult to justify using these functions as of June 2020.
 
